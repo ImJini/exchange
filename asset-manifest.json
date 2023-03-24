@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImJini/exchange/static/css/main.e6c13ad2.css",
+    "main.js": "/ImJini/exchange/static/js/main.8ba058a1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ImJini/exchange/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/ImJini/exchange/index.html",
+    "main.e6c13ad2.css.map": "/ImJini/exchange/static/css/main.e6c13ad2.css.map",
+    "main.8ba058a1.js.map": "/ImJini/exchange/static/js/main.8ba058a1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ImJini/exchange/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ba058a1.js"
+  ]
+}
